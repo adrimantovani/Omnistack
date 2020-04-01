@@ -63,10 +63,11 @@
     right: 24px;
     top: 24px;
     border: 0;
+    background: #FFF;
 }
 
 .profile-container ul li button:hover {
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .profile-container ul li strong {
